@@ -1,2 +1,5 @@
 club:
   greeting: Welcome to the Club from a fresh config server!
+  catalog:
+    service:
+      url: http://localhost:9001
